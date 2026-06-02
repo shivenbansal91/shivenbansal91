@@ -1,6 +1,6 @@
 # Hi, I'm Shiven Bansal 👋
 
-> AI/ML developer · Python · React · Oracle · Building things that matter
+> AI/ML Enthusiast • Computer Vision • Intelligent Systems
 
 ---
 
