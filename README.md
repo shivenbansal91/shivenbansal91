@@ -28,10 +28,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenbansal91&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
 
 *Always building. Currently exploring deep learning for healthcare.*
