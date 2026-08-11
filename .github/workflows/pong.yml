@@ -1,0 +1,33 @@
+name: Update Pong Bot
+
+on:
+  schedule:
+    # every 3 hours -- adjust as you like
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Play the next chunk of the match
+        run: python scripts/generate_pong.py
+
+      - name: Commit updated board
+        run: |
+          git config user.name "pong-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets/pong.svg scripts/pong_state.json
+          git diff --staged --quiet || git commit -m "Pong bot: play next frame"
+          git push
