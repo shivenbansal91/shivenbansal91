@@ -32,43 +32,38 @@ Just for fun — this match has been running since I set it up, and it never sto
 
 ---
 
-### 🛠️ Tech I work with
+### 🛠️ Tech I Work With
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B07219?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 </div>
 
-<!--
-🎧 LIVE CODING ACTIVITY (WakaTime) — add this back in once WakaTime is set up:
-
-### 📊 What I'm Coding This Week
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
--->
-
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivenbansal91&show_icons=true&theme=dark&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=e6edf3&border_color=238636" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivenbansal91&layout=compact&theme=dark&bg_color=0d1117&title_color=39ff14&text_color=e6edf3&border_color=238636" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenbansal91&theme=dark&background=0d1117&stroke=238636&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&border=238636" />
+<img src="https://streak-stats.vercel.app/?user=shivenbansal91&theme=dark&background=0d1117&stroke=238636&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&border=238636" />
 
 </div>
 
@@ -78,10 +73,10 @@ Just for fun — this match has been running since I set it up, and it never sto
 
 <div align="center">
 
-<!-- swap these for your real links -->
+
 [![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39ff14)](https://github.com/shivenbansal91)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff14)](#)
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff14)](https://www.linkedin.com/in/shiven-bansal/)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14)](mailto:shivenbansal91@gmail.com)
 
 </div>
 
@@ -93,6 +88,6 @@ Just for fun — this match has been running since I set it up, and it never sto
 
 ---
 
-<p align="center"><i>Always building. Currently exploring deep learning for healthcare.</i></p>
+<p align="center"><i>Always building.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39ff14&height=100&section=footer" width="100%"/>
