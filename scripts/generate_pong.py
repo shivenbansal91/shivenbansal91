@@ -27,8 +27,8 @@ W, H = 600, 300
 PADDLE_W, PADDLE_H = 10, 60
 PADDLE_MARGIN = 20
 BALL_R = 7
-FRAME_COUNT = 40          # frames rendered into this run's animation
-DUR_SECONDS = 6           # how long the loop takes to play in the browser
+FRAME_COUNT = 260         # frames rendered into this run's animation
+DUR_SECONDS = 20          # how long the loop takes to play in the browser
 
 
 def default_state():
